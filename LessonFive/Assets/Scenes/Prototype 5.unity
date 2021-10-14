@@ -818,6 +818,7 @@ MonoBehaviour:
   isGameActive: 0
   scoreText: {fileID: 2113335731}
   gameOverText: {fileID: 1793641832}
+  restartButton: {fileID: 136365835}
 --- !u!4 &1133982517
 Transform:
   m_ObjectHideFlags: 0
